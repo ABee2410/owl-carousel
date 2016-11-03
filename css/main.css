@@ -1,0 +1,19 @@
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color:#D2B48C;
+}
+
+h1 {
+  color: #7a0606;
+  font-family:'Nixie One', cursive;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #e68105;
+  text-align: center;
+  padding: 7px
+}
+
+.item {
+
+}
